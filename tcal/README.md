@@ -13,15 +13,17 @@ Until the present version (1.6.0), the following calculations are available:
 
 ## How to use
 
-Usage: tricalc [options] 
+Usage: tricalc [options] …
+
 Options:
   -h    --help      --> Print this help and exit
   -v    --version   --> Print version information and exit
   -a X  --aside=X   --> X is the length of side a
   -b X  --bside=X   --> X is the length of side b
   -c X  --cside=X   --> X is the length of side c
-  
+
 Example:
+
 tricalc -a 3 -b 4 -c 5 --> Calculates the triangle of sides 3,4, and 5
 
 

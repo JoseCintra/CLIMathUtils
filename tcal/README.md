@@ -34,3 +34,6 @@ Download the file available in Releases, unzip it in any folder and follow the i
 **For Windows**  
 Download the file available in Releases, unzip it in any folder and run the tcal.exe program  
 
+## Dependences
+Triangle Calculator uses [f90getopt](https://github.com/haniibrahim/f90getopt), a Library for command-line parsing.  
+

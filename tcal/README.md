@@ -1,6 +1,6 @@
 # Triangle Calculator
 
-**Triangle Calculator** (tcal) is a command-line program developed in Fortran that calculates the principal elements of a triangle based on the dimension of its sides a, b and c. Along with the program, a Fortran library (tcal_lib) is also available, which can be used in other mathematical projects.
+**Triangle Calculator** (tcal) is a command-line program developed in Fortran that calculates the main elements of a triangle based on the dimension of its sides a, b and c. Along with the program, a Fortran library (tcal_lib) is also available, which can be used in other mathematical projects.
 
 ## Features
 Until the present version (1.06.0), the following calculations are available:

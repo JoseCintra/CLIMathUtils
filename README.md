@@ -9,4 +9,4 @@ This is a work in constant development and, as new utilities are developed, they
 
 | Program | Description | Language|
 | --- | --- | --- |
-| tcal | Calculation of triangles through their sides | Fortran |
+| [tcal](https://github.com/JoseCintra/CLIMathUtils/blob/main/tcal) | Calculation of triangles through their sides | Fortran |

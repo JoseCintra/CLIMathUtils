@@ -1,9 +1,9 @@
-# Triangle Calculation
+# Triangle Calculator
 
-**Triangle Calculation** (tcal) is a command-line program developed in Fortran that calculates the principal elements of a triangle based on the dimension of its sides a, b and c. Along with the program, a Fortran library (tcal_lib) is also available, which can be used in other mathematical projects.
+**Triangle Calculator** (tcal) is a command-line program developed in Fortran that calculates the principal elements of a triangle based on the dimension of its sides a, b and c. Along with the program, a Fortran library (tcal_lib) is also available, which can be used in other mathematical projects.
 
 ## Features
-Until the present version (1.6.0), the following calculations are available:
+Until the present version (1.06.0), the following calculations are available:
 * Perimeter
 * Semiperimeter
 * Area by Heron e Height formulas
@@ -27,4 +27,10 @@ Options:
 Example that calculates the triangle of sides 3,4, and 5:
 tricalc -a 3 -b 4 -c 5 
 
+## How to Install
+**For Linux:**
+Download the file available in Releases, unzip it in any folder and follow the instructions in the install.txt file
+
+** For Windows **
+Download the file available in Releases, unzip it in any folder and run the tcal.exe program
 

@@ -25,7 +25,7 @@ Options:
 |-b X|--bside=X|X is the length of side b|
 |-c X|--cside=X|X is the length of side c|
 
-Example that calculates the triangle of sides 3,4, and 5:
+Example that calculates the triangle of sides 3, 4, and 5:
 tricalc -a 3 -b 4 -c 5 
 
 ## How to Install

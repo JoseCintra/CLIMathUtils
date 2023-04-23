@@ -1,5 +1,5 @@
 # Triangle Calculator
-[Triangle calculator *tcal) elements of triangle](https://github.com/JoseCintra/CLIMathUtils/blob/main/tcal/triangle_tcal.png)
+![Triangle calculator - Elements of triangle](https://github.com/JoseCintra/CLIMathUtils/blob/main/tcal/triangle_tcal.png)
 
 **Triangle Calculator** (tcal) is a command-line program developed in Fortran that calculates the main elements of a triangle based on the dimension of its sides a, b and c. Along with the program, a Fortran library (tcal_lib) is also available, which can be used in other mathematical projects.  
 Triangle calculator runs in Linux and Windows.

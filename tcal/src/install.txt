@@ -1,0 +1,12 @@
+
+For Linux:
+To compile tcal, run the commands below in that order
+Note: GFortran compiler must be installed
+
+gfortran -Wall -c "f90getopt.F90" 
+gfortran -Wall -c "tcal_lib.f95"
+gfortran -Wall -c "tcal.f95" 
+gfortran -Wall -o "tcal" f90getopt.o tcal_lib.o "tcal.f95" 
+
+For Windows
+Download the file tcal-windows.zip available in src folder, unzip it in any folder and run the tcal.exe program

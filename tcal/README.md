@@ -28,11 +28,8 @@ Example that calculates the triangle of sides 3,4, and 5:
 tricalc -a 3 -b 4 -c 5 
 
 ## How to Install
-**For Linux:**  
-Download the file available in Releases, unzip it in any folder and follow the instructions in the install.txt file  
-
-**For Windows**  
-Download the file available in Releases, unzip it in any folder and run the tcal.exe program  
+**For Linux and Windows:**  
+Read the instructions in the install.txt file in the src folder  
 
 ## Dependences
 Triangle Calculator uses [f90getopt](https://github.com/haniibrahim/f90getopt), a Library for command-line parsing.  

@@ -33,6 +33,6 @@ tricalc -a 3 -b 4 -c 5
 **For Linux and Windows:**  
 Read the instructions in the [install.txt](https://github.com/JoseCintra/CLIMathUtils/blob/main/tcal/src/install.txt) file in the [src](https://github.com/JoseCintra/CLIMathUtils/tree/main/tcal/src) folder  
 
-## Dependences
+## Dependencies
 Triangle Calculator uses [f90getopt](https://github.com/haniibrahim/f90getopt), a Library for command-line parsing.  
 

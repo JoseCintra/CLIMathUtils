@@ -29,7 +29,7 @@ tricalc -a 3 -b 4 -c 5
 
 ## How to Install
 **For Linux and Windows:**  
-Read the instructions in the install.txt file in the src folder  
+Read the instructions in the **install.txt** file in the **src** folder  
 
 ## Dependences
 Triangle Calculator uses [f90getopt](https://github.com/haniibrahim/f90getopt), a Library for command-line parsing.  

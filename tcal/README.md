@@ -10,7 +10,7 @@ Until the present version (1.06.0), the following calculations are available:
 * Area by Heron e Height formulas
 * Internal and External angles by the cosine formula
 * Types, with respect to the number of sides and angles
-* Heights of the triangle
+* Heights of the triangle 
 
 ## How to use
 
